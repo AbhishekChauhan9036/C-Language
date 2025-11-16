@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main() {
-    // int num1, num2, product;   
-    // printf("Enter two integers: ");
-    // scanf("%d %d", &num1, &num2);
-    // product = num1 * num2;
-    // printf("Product: %d\n", product);   
+    int num1, num2, product;   
+    printf("Enter two integers: ");
+    scanf("%d %d", &num1, &num2);
+    product = num1 * num2;
+    printf("Product: %d\n", product);   
 
     // Single line comment example
     /*
@@ -12,8 +12,8 @@ int main() {
         This program multiplies two integers
     */
 
-    // printf("Hello\t");
-    // printf("World!");
+    printf("Hello\t");
+    printf("World!");
 
 
     int a = 5;
